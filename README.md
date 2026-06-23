@@ -97,7 +97,7 @@ Context-Aware Medical Response
 
 ### Development Environment
 
-* Jupyter Notebook
+* Kaggle Notebook
 * Python
 
 ---
